@@ -1,0 +1,70 @@
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+  color: red;
+}
+.row.content {height: 450px;
+ color:white;}
+
+.sidenav {
+  padding-top: 20px;
+  background-color: #5C5757;
+  height: 200%;
+  color: white;
+}
+
+footer {
+  background-color: #2C2829;
+  color: white;
+  padding: 15px;
+}
+@media screen and (max-width: 767px) {
+  .sidenav {
+    color: white;
+    height: 100%;
+    padding: 15px;
+  }
+  .row.content {height:auto; color: white;  } 
+}
+.navbar{
+  color: white;
+}
+
+body {
+  background-color: darkgrey;
+}
+.collapse.navbar-collapse
+{
+  background-color:#E13A3A;
+}
+
+.container-fluid.text-left{
+  background-color:darkgrey;
+  color : white;
+}
+a:visited{
+    color: whitesmoke;
+}
+a:active{
+    color: black;
+}
+.modal a:visited{
+    color: black;
+}
+.btn {
+    background-color: #E13A3A;
+    color: white;
+}
+.btn:active{
+    color: black
+}
+.editor{
+    color: black;
+}
+.card-body{
+  color: black;
+}
+
+.btn-dark{
+  background-color: rgb(158, 0, 0);
+}
